@@ -2,6 +2,9 @@ import React from 'react'
 import MainCarousel from '../../components/HomeCarousel/MainCarousel'
 import HomeSectionCarousel from '../../components/HomeSectionCarousel/HomeSectionCarousel'
 import { mens_kurta } from '../../../Data/mens_kurta'
+import { Women_saree } from '../../../Data/Women_saree'
+import { men_shoe } from '../../../Data/men_shoe'
+import { women_sandal } from '../../../Data/women_sandal'
 const HomePage = () => {
     return (
         <div>
